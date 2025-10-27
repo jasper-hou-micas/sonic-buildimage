@@ -216,6 +216,7 @@ yang_files = [
     'sonic-warm-restart.yang',
     'sonic-wred-profile.yang',
     'sonic-xcvrd-log.yang',
+    'sonic-ztp.yang',
 ]
 
 class my_build_py(build_py):
